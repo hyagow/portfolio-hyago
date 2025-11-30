@@ -1,0 +1,19 @@
+/*
+ * Este arquivo contém APENAS as diretivas essenciais do Tailwind.
+ * Todos os estilos de tema, cores de fundo e layout são definidos
+ * diretamente no componente React usando classes Tailwind.
+ */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Opcional: Configurações de fonte global, se necessário,
+   mas geralmente é melhor usar a classe 'font-sans' do Tailwind. */
+body {
+  /* Evita qualquer cor de fundo padrão para que o bg-gray-950 do React funcione */
+  background-color: transparent; 
+  /* Remove as regras de 'display: flex' que impedem o layout de preencher a tela */
+  margin: 0;
+  padding: 0;
+  min-width: 320px;
+}
