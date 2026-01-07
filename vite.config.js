@@ -6,5 +6,5 @@ import react from '@vitejs/plugin-react'
 // Isso permite que o build funcione quando você abre o index.html diretamente no navegador.
 export default defineConfig({
   plugins: [react()],
-  base: './portfolio-hyago', 
+  base: './', 
 })
