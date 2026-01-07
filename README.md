@@ -25,7 +25,7 @@ A gente montou essa belezinha usando umas ferramentas top de linha. É pra garan
 | Vite | Vite pra ser super-rápido. |
 | Tailwind CSS | Estilos na velocidade da luz! Pra deixar tudo bonito e responsivo sem sufoco. |
 | TypeScript | Linguagem com tipagem. Ajuda a evitar uns bugs bobos, sabe? |
-| Zustand / Flask / FastAPI / Django] | Controla o estado global do app. Pra saber onde a informação tá em tempo real. |
+| Zustand / Flask / FastAPI / Django | Controla o estado global do app. Pra saber onde a informação tá em tempo real. |
 | Firebase Firestore/SQL/NoSQL | Onde guardamos os dados. Pra que a informação persista de verdade. |
 
 ## 🎬 Bora Botar Pra Rodar? (Instalação)
