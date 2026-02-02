@@ -130,4 +130,4 @@ Dá uma olhada no arquivo `LICENSE` se quiser os detalhes legais.
 [<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/eed24d28-72cf-46ad-9501-c721aba47d10" />](https://www.linkedin.com/in/hyagow/)
 <a href="mailto:hyagowtech@gmail.com"><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e56c579d-e20c-48f8-b5a0-821f218507be"/></a>
 
-Feito com bastante ☕ e um pouquinho de dor de cabeça (mas valeu a pena! xD)
+Feito com bastante entusiasmo e um pouquinho de dor de cabeça (mas valeu a pena! xD)
