@@ -4,7 +4,7 @@ E aí! Este é o cantinho do nosso projeto. Dá uma olhada no que tem por aqui e
 
 ## 🚀 Como a Coisa Tá Andando
 
-### 📌 A Ideia Principal
+### 📌 A Ideia Principal:
 
 Resumindo: O que você tá vendo aqui é um(a) um portfólio pessoal maneiro, um app pra organizar seus projetos.
 
