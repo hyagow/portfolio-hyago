@@ -2,7 +2,7 @@
 
 E aí! Este é o cantinho do nosso projeto. Dá uma olhada no que tem por aqui e como você pode ajudar (ou só botar pra rodar rapidinho!).
 
-## 🚀 Como a Coisa Tá Andando
+## 🚀 Como a Coisa Tá Andando:
 
 ### 📌 A Ideia Principal:
 
