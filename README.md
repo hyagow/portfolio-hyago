@@ -10,12 +10,12 @@ Resumindo: O que você tá vendo aqui é um(a) um portfólio pessoal maneiro, um
 
 A missão é mostrar o que eu sei fazer, resolver a vida de quem precisa organizar a agenda, criar sites, e-commerce e muito mais.
 
-### 🌟 O que Rola Por Dentro (Funcionalidades)
+### 🌟 O que Rola Por Dentro (Funcionalidades):
 
 - Tem o layout responsivo, funciona em celular, tablet, tudo!!
 - Recebemos dados desde que você entre em contato, é claro.
 
-## 💻 A Receita (Tecnologias)
+## 💻 A Receita (Tecnologias):
 
 A gente montou essa belezinha usando umas ferramentas top de linha. É pra garantir que o projeto seja rápido e fácil de manter:
 
@@ -28,7 +28,7 @@ A gente montou essa belezinha usando umas ferramentas top de linha. É pra garan
 | Zustand / Flask / FastAPI / Django | Controla o estado global do app. Pra saber onde a informação tá em tempo real. |
 | Firebase Firestore/SQL/NoSQL | Onde guardamos os dados. Pra que a informação persista de verdade. |
 
-## 🎬 Bora Botar Pra Rodar? (Instalação)
+## 🎬 Bora Botar Pra Rodar? (Instalação):
 
 Quer ver a mágica acontecer na sua máquina? É moleza, mas você vai precisar de algumas coisinhas antes:
 
@@ -38,7 +38,7 @@ Quer ver a mágica acontecer na sua máquina? É moleza, mas você vai precisar 
 - **npm ou yarn**: O seu gerenciador de pacotes favorito.
 - **Git**: Pra conseguir clonar o código daqui.
 
-### 1. Clonagem (Puxando o Código)
+### 1. Clonagem (Puxando o Código):
 
 Abre o terminal e manda ver:
 
@@ -47,7 +47,7 @@ git clone [link do projeto]
 cd [nome-do-seu-projeto]
 ```
 
-### 2. Dependências (Baixando os Pacotes)
+### 2. Dependências (Baixando os Pacotes):
 
 Agora é só instalar tudo que a gente usou no projeto:
 
@@ -59,7 +59,7 @@ npm install
 yarn install
 ```
 
-### 3. Segredos! (Variáveis de Ambiente)
+### 3. Segredos! (Variáveis de Ambiente):
 
 Essa parte é séria, mas fácil. NUNCA coloque suas chaves no código público!
 
@@ -76,7 +76,7 @@ VITE_DATABASE_URL="URL_DA_SUA_DB_AQUI"
 
 **FIQUE ESPERTO!** O nosso `.gitignore` tá configurado pra IGNORAR esse arquivo. Isso é a garantia de que seus segredos ficam só com você.
 
-## ▶️ Os Comandos Mágicos (Scripts)
+## ▶️ Os Comandos Mágicos (Scripts):
 
 Aqui estão os comandos que você mais vai usar:
 
@@ -88,7 +88,7 @@ Aqui estão os comandos que você mais vai usar:
 | `npm run lint` | Dá aquela checada no código pra ver se tem algum erro de estilo. |
 | `npm run format` | Arruma o código sozinho pra deixar tudo padronizado (usando o Prettier). |
 
-## 📂 Organização da Casa (Estrutura)
+## 📂 Organização da Casa (Estrutura):
 
 Pra você não se perder, a estrutura tá assim:
 
@@ -108,7 +108,7 @@ Pra você não se perder, a estrutura tá assim:
 └── README.md        # Este arquivo aqui!
 ```
 
-## 🤝 Quer Dar uma Mãozinha? (Contribuição)
+## 🤝 Quer Dar uma Mãozinha? (Contribuição):
 
 Se viu algo pra melhorar ou achou um bug, chega mais! A gente adora ajuda:
 
@@ -118,7 +118,7 @@ Se viu algo pra melhorar ou achou um bug, chega mais! A gente adora ajuda:
 4. Manda pra branch (`git push origin feature/sua-ideia`).
 5. Abre um **Pull Request (PR)** contando o que você mudou.
 
-## ⚖️ Licença
+## ⚖️ Licença:
 
 O código aqui é aberto! Ele tá sob a **Licença MIT**.
 
