@@ -8,7 +8,7 @@
 
 Resumindo: O que você tá vendo aqui é um(a) um portfólio pessoal maneiro, um app pra organizar seus projetos.
 
-A missão é mostrar o que eu sei fazer, resolver a vida de quem precisa organizar a agenda, criar sites, e-commerce e muito mais.
+> A missão é mostrar o que eu sei fazer, resolver a vida de quem precisa organizar a agenda, criar sites, e-commerce e muito mais.
 
 ### 🌟 O que Rola Por Dentro (Funcionalidades):
 
