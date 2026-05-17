@@ -17,7 +17,7 @@ Resumindo: O que você tá vendo aqui é um(a) um portfólio pessoal maneiro, um
 
 ## 💻 A Receita (Tecnologias):
 
-A gente montou essa belezinha usando umas ferramentas top de linha. É pra garantir que o projeto seja rápido e fácil de manter:
+> A gente montou essa belezinha usando umas ferramentas top de linha. É pra garantir que o projeto seja rápido e fácil de manter:
 
 | Ferramenta | O que faz por aqui? |
 |------------|-------------------|
