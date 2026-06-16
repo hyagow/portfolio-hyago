@@ -30,7 +30,7 @@ Resumindo: O que você tá vendo aqui é um(a) um portfólio pessoal maneiro, um
 
 ## 🎬 Bora Botar Pra Rodar? (Instalação):
 
-Quer ver a mágica acontecer na sua máquina? É moleza, mas você vai precisar de algumas coisinhas antes:
+- Quer ver a mágica acontecer na sua máquina? É moleza, mas você vai precisar de algumas coisinhas antes:
 
 ### O que você precisa ter:
 
