@@ -120,9 +120,9 @@ Se viu algo pra melhorar ou achou um bug, chega mais! A gente adora ajuda:
 
 ## ⚖️ Licença:
 
-O código aqui é aberto! Ele tá sob a **Licença MIT**.
+- O código aqui é aberto! Ele tá sob a **Licença MIT**.
 
-Dá uma olhada no arquivo `LICENSE` se quiser os detalhes legais.
+- Dá uma olhada no arquivo `LICENSE` se quiser os detalhes legais.
 
 ## 🧑 Quem Fez?
 
