@@ -74,7 +74,7 @@ VITE_FIREBASE_API_KEY="SUA_CHAVE_PRIVADA_AQUI"
 VITE_DATABASE_URL="URL_DA_SUA_DB_AQUI"
 ```
 
-**FIQUE ESPERTO!** O nosso `.gitignore` tá configurado pra IGNORAR esse arquivo. Isso é a garantia de que seus segredos ficam só com você.
+> **FIQUE ESPERTO!** O nosso `.gitignore` tá configurado pra IGNORAR esse arquivo. Isso é a garantia de que seus segredos ficam só com você.
 
 ## ▶️ Os Comandos Mágicos (Scripts):
 
