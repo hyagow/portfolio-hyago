@@ -61,7 +61,7 @@ yarn install
 
 ### 3. Segredos! (Variáveis de Ambiente):
 
-Essa parte é séria, mas fácil. NUNCA coloque suas chaves no código público!
+- Essa parte é séria, mas fácil. NUNCA coloque suas chaves no código público!
 
 - Crie um arquivo chamado `.env.local` na raiz.
 - Coloque suas chaves de API, senhas de banco e outros segredos lá dentro.
